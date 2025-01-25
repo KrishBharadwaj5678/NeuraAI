@@ -1,5 +1,5 @@
 
-# Neura AI
+# Neura AI 🤖
 
 Neura AI is a powerful and user-friendly AI Chatbot application designed to provide intelligent and conversational assistance. The app supports multiple features to enhance user experience, including prompt responses, text-to-speech functionality, and the ability to download prompts as PDF files. Additionally, Neura AI supports both dark mode and light mode for a customizable interface.
 
@@ -14,11 +14,11 @@ Neura AI is a powerful and user-friendly AI Chatbot application designed to prov
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/neura-ai.git
+   git clone https://github.com/KrishBharadwaj394/NeuraAI.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd neura-ai
+   cd NeuraAI
    ```
 3. Install dependencies:
    ```bash
@@ -26,7 +26,7 @@ Neura AI is a powerful and user-friendly AI Chatbot application designed to prov
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
