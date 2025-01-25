@@ -13,7 +13,8 @@ Neura AI is a powerful and user-friendly AI Chatbot application designed to prov
 ## Technologies Used
 
 - **Frontend**: React JS, Tailwind CSS
-- **Text-to-Speech**: Web Speech API / Third-party API (if applicable)
+- **API**: Google API
+- **Text-to-Speech**: Responsive Voice
 - **PDF Generation**: jsPDF library
 - **Animation**: Framer Motion
 
