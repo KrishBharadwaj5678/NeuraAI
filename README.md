@@ -10,6 +10,13 @@ Neura AI is a powerful and user-friendly AI Chatbot application designed to prov
 - **Download as PDF**: Users can save their prompts and AI responses as PDF files for future reference.
 - **Dark Mode and Light Mode**: Toggle between dark mode and light mode to suit your preferences and reduce eye strain.
 
+## Technologies Used
+
+- **Frontend**: React JS, Tailwind CSS
+- **Text-to-Speech**: Web Speech API / Third-party API (if applicable)
+- **PDF Generation**: jsPDF library
+- **Animation**: Framer Motion
+
 ## Installation
 
 1. Clone the repository:
@@ -28,21 +35,6 @@ Neura AI is a powerful and user-friendly AI Chatbot application designed to prov
    ```bash
    npm run dev
    ```
-
-## Usage
-
-1. Open the application in your browser at `http://localhost:3000`.
-2. Type your prompt to interact with Neura AI.
-3. Switch between dark mode and light mode using the toggle button.
-4. Listen to AI responses using the text-to-speech feature.
-5. Save your conversations by downloading them as PDF files.
-
-## Technologies Used
-
-- **Frontend**: React JS, Tailwind CSS
-- **Text-to-Speech**: Web Speech API / Third-party API (if applicable)
-- **PDF Generation**: jsPDF / Third-party library
-- **Theming**: Tailwind CSS for dark mode and light mode
 
 ## Contributing
 
