@@ -8,6 +8,7 @@ Neura AI is a powerful and user-friendly AI Chatbot application designed to prov
 - **Prompt Responses**: Neura AI provides accurate and meaningful responses to user prompts using advanced AI technology.
 - **Text-to-Speech**: Users can listen to AI-generated responses through the text-to-speech feature for a hands-free experience.
 - **Download as PDF**: Users can save their prompts and AI responses as PDF files for future reference.
+- **Copy Prompts**: Users can easily copy their prompts and AI responses to the clipboard for quick sharing or reuse.
 - **Dark Mode and Light Mode**: Toggle between dark mode and light mode to suit your preferences and reduce eye strain.
 
 ## Technologies Used
