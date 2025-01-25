@@ -1,7 +1,10 @@
-// vite.config.js
-export default defineConfig({
+import react from '@vitejs/plugin-react';
+
+// Vite configuration for Render compatibility
+export default {
+  plugins: [react()],
   server: {
-    host: "0.0.0.0",  // This ensures Vite binds to all network interfaces
-    port: process.env.PORT || 3000, // Render assigns a port dynamically
+    port: process.env.PORT || 3000,
+    host: '0.0.0.0',  // Allow access from external sources
   },
-});
+};
