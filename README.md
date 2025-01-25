@@ -1,7 +1,7 @@
 
 # Neura AI 🤖
 
-Neura AI is a powerful and user-friendly AI Chatbot application designed to provide intelligent and conversational assistance. The app supports multiple features to enhance user experience, including prompt responses, text-to-speech functionality, and the ability to download prompts as PDF files. Additionally, Neura AI supports both dark mode and light mode for a customizable interface.
+Neura AI is a powerful and user-friendly AI Chatbot application designed to provide intelligent and conversational assistance. The app supports multiple features to enhance user experience, including prompt responses, text-to-speech functionality, and the ability to download prompts as PDF files.
 
 ## Features
 
