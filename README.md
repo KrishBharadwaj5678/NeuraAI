@@ -23,7 +23,7 @@ Neura AI is a powerful and user-friendly AI Chatbot application designed to prov
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KrishBharadwaj394/NeuraAI.git
+   git clone https://github.com/KrishBharadwaj5678/NeuraAI.git
    ```
 2. Navigate to the project directory:
    ```bash
